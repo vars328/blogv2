@@ -6,4 +6,4 @@ Registration
 
 Logging / Logout
 
-Integrated the blogging workflow with user .
+ Post / comments .
